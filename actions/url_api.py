@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import json
 
+#Link to the API and JSON file example below
 #https://apidatalake.tesouro.gov.br/docs/sadipem/#/PVL%20-%20Dados%20B%C3%A1sicos
 
 r'''  
