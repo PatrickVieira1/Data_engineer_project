@@ -22,7 +22,7 @@ By web scraping the data through the API, we will be able to get the data in JSO
 
 Then we will use AWS Glue to transform the data into a table and then store it on our PostgreSQL database.
 
-After that, we will use Apache Airflow to run the ETL process and create a pipeline to run the data analysis.
+After that, we will use Apache Airflow to orchestrate our workflow and create a pipeline to run the ETL process.
 
 Only then, our data will be ready for our analysis. 
 
