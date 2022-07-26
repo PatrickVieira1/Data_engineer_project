@@ -24,7 +24,7 @@ Then we will use AWS Glue to transform the data into a table and then store it o
 
 After that, we will use Apache Airflow to run the ETL process and create a pipeline to run the data analysis.
 
-Only then, our data will be ready for our analysis.
+Only then, our data will be ready for our analysis. 
 
 
 
